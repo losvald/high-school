@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README*
+!COPYING
+!LICENSE
+!*.*
+!/scripts/**/*
+*.class
+*.exe
+!/**/
+
+!/algo

@@ -1,0 +1,4 @@
+[submodule "algo"]
+	path = algo
+	url = git@github.com:losvald/algo.git
+	branch = high-school
