@@ -1,0 +1,78 @@
+This is 3D Maze generated with the following parameters:
+5 5 5 100 100 0 0 0
+Help: R = Right	U = Up	L = Left	D = Down
+B = Level down (Below)	A = Level up (Above)
+(2 = Level down + Level up)
+Note: Solution is represented in xy view!
+
+Start position (level,row,column) = (1,1,1)
+Destination(level,row,column) = (1,1,1)
+Level   1
+###########
+#S#B#  B# #
+# # # ### #
+#B# # #B  #
+### # # ###
+#B#B# #   #
+# ### ### #
+#   #   # #
+### ### # #
+#B B    #B#
+###########
+
+Level   2
+###########
+#B A#  A  #
+###########
+#A#   #2#B#
+# # ##### #
+#A#A#B#   #
+### # # ###
+#B  # #B#B#
+##### ### #
+#2#A  #B#A#
+###########
+
+Level   3
+###########
+#2#B#B#B D#
+##### #####
+#     #2#A#
+# ####### #
+#   #A    #
+### #######
+#2# #B#2#A#
+### # ### #
+#A#B#B#2  #
+###########
+
+Level   4
+###########
+#2#2#A#A  #
+### # ### #
+#B  #B#A# #
+######### #
+#B B#B  # #
+####### # #
+#A#  A#A#B#
+# ####### #
+#  A#2 A#B#
+###########
+
+Level   5
+###########
+#A A    # #
+####### ###
+#A#  A#   #
+### ##### #
+#A#A#A#   #
+# ### # ###
+#     # #A#
+####### ###
+#    A#  A#
+###########
+
+
+
+SOLUTION:
+
