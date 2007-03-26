@@ -1,0 +1,37 @@
+10 8
+Betelgeuse
++7.406944444 88.79291667 130 0.3 1.2
+Meissa
++9.934155556 83.78450000 320 3.39 5.61
+Rigel
+-8.201666667 78.63458333 240 0.12 8.44
+Bellatrix
++6.349722222 80.44958333 75 1.64 1.64
+Alnitak
+-1.942777778 85.18958333 250 1.70 4.21
+Alnilam
+-1.201916667 84.05333333 400 1.70 1.70
+Mintaka
+0.29916666 83.001666 280 2.23 2.23
+Saiph
+-9.669722 86.939166 220 2.06 2.06
+Hatsya
+-5.910000000 83.85833333 400 2.77 2.77
+Sirius
+-16.71611583 101.2871554 2.64 -1.47 -1.47
+Betelgeuse
+Meissa
+Meissa
+Bellatrix
+Betelgeuse
+Alnitak
+Alnitak
+Alnilam
+Alnilam
+Mintaka
+Alnitak
+Saiph
+Mintaka
+Rigel
+Mintaka
+Bellatrix
