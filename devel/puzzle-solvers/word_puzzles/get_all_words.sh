@@ -1,0 +1,2 @@
+curl --header 'Host: tcpdiag.dl.sourceforge.net' --header 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' --header 'Accept-Language: en-US,en;q=0.5' --header 'Referer: http://sourceforge.net/projects/wordlist/files/SCOWL/Rev%206/scowl-6.zip/download' --header 'Connection: keep-alive' 'http://tcpdiag.dl.sourceforge.net/project/wordlist/SCOWL/Rev%206/scowl-6.zip' -o 'scowl-6.zip' -L
+# TODO: unzip and run extract_scowl_words.cpp from the "final" directory
